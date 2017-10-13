@@ -3,5 +3,5 @@ Experiments with using Genetic Algorithms to train Recurrent Neural Nets for pla
 
 ## Contents
 
-###reversi.py
+### reversi.py
 A module with an object, ReversiGame, that models a game of Reversi. This will be the game for the first version of the algorithm.
